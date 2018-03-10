@@ -13,6 +13,6 @@
     "esModuleInterop": true                   /* Enables emit interoperability between CommonJS and ES Modules via creation of namespace objects for all imports. Implies 'allowSyntheticDefaultImports'. */
   },
   "files":[
-    "./assets/js/app.ts"
+    "../03_ExpressRoutingAssignment/assets/js/app.ts"
   ]
 }
